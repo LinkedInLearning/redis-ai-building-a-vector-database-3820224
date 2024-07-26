@@ -9,7 +9,7 @@ This course shows developers how to exploit the ready-made AI-related tools in R
 
 Fernando Doglio
 
-Published Author, Developer Advocate at OpenReplay              
+Published Author, Data Strategy Director @ Globant
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/fernando-doglio?u=104).
 
